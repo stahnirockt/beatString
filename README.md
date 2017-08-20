@@ -23,4 +23,4 @@ live_loop :foo do
                       mode: :samples,
                       beat_length: 0.5)
 end
-'''
+```

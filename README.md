@@ -15,7 +15,7 @@ Foxdot-Repository is here: https://github.com/Qirky/FoxDot
 
 5.) Now you can use the play_nested_pattern function (mode: :samples) and the beatPattern function like this
 
-'''ruby
+```ruby
 use_bpm 110
 
 live_loop :foo do

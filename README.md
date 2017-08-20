@@ -9,4 +9,4 @@ How to use.
 
 3.) require the two files in your Project.
 
-4.) requiere the sonicPi pattern.rb (for example: require "/Applications/Sonic Pi.app/app/server/sonicpi/lib/sonicpi/lang/pattern.rb")
+4.) requiere the sonicPi pattern.rb (```require "/Applications/Sonic Pi.app/app/server/sonicpi/lib/sonicpi/lang/pattern.rb")
